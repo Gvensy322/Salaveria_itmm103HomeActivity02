@@ -4,13 +4,10 @@
 ?>
 
 <?php 
-for($i=5;$i>=$i;$i--){
-for($j=1;$j<$i;$j++){
+for($i=1;$i<=5;$i++){
+for($j=$i;$j>=1;$j--){
  
-       echo "  ";
-}
- for($k=5;$>=$i;$k--){
-  echo " * ";
+       echo " * ";
 }
        echo "<br />";
      }
