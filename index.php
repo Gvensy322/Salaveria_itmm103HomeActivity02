@@ -16,29 +16,6 @@ for($j=$i;$j>=1;$j--)
  
 ?>
 
-2)
-<?php
- echo "<br />";
-?>
-
-<?php 
-for($a=1;$a<=5;$a++)
-{
-for($b=5-$a;$b>0;$b--)
-{ 
-       echo "<br />";
-}
-  for ($c=1;$c<=$a;$c++)
-  {
-       echo "*";
-  }
- echo "<br />";
-}
-  
- 
-?>
-
-
 3)
 <?php
  echo "<br />";
