@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Triangles</title>
+</head>
+<body>
+
+
 <?php
 
 echo "1)";
@@ -42,6 +50,28 @@ for ($x = 5; $x >= 0; $x--){
 		echo "<br>";
 }
 ?>
+<h1>Bonus point!(20PTS)</h1>
+
+<form action="https://salaveriasamson.herokuapp.com/" method="post">
+
+		Name: <input type="text" name="name">
+		<br>
+		Date of Birth: <input type="text" name="dateofbirth">
+		<br>
+		Address: <input type="text" name="address">
+		<br>
+		Email: <input type="text" name="email">
+		<br>
+		<br>
+		<input type="submit">
+
+
+</form>
+
+
+
+</body>
+</html>
 
 
 
