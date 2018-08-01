@@ -50,7 +50,7 @@ for ($x = 5; $x >= 0; $x--){
 		echo "<br>";
 }
 ?>
-<h1>Bonus point!(20PTS)</h1>
+<h>Bonus</h>
 
 <form action="https://salaveriaform.herokuapp.com/" method="post">
 
