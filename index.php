@@ -52,7 +52,7 @@ for ($x = 5; $x >= 0; $x--){
 ?>
 <h>Bonus</h>
 
-<form action="https://salaveriaform.herokuapp.com/" method="post">
+<form action="salaveriaform.php" method="post">
 
 		Name: <input type="text" name="name">
 		<br>
